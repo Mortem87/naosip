@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\sln_naosip\MODEL\bin\Debug\MODEL.dll
+C:\Users\Admin\source\repos\sln_naosip\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Admin\source\repos\sln_naosip\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\sln_naosip\MODEL\obj\Debug\MODEL.dll
+C:\Users\Admin\source\repos\sln_naosip\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Admin\source\repos\sln_naosip\MODEL\obj\Debug\MODEL.csprojAssemblyReference.cache

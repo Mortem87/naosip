@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\sln_naosip\BUSSINES\obj\Debug\BUSSINES.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\sln_naosip\BUSSINES\obj\Debug\BUSSINES.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\sln_naosip\BUSSINES\bin\Debug\BUSSINES.dll
+C:\Users\Admin\source\repos\sln_naosip\BUSSINES\bin\Debug\BUSSINES.pdb
+C:\Users\Admin\source\repos\sln_naosip\BUSSINES\bin\Debug\DATA.dll
+C:\Users\Admin\source\repos\sln_naosip\BUSSINES\bin\Debug\MODEL.dll
+C:\Users\Admin\source\repos\sln_naosip\BUSSINES\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Admin\source\repos\sln_naosip\BUSSINES\bin\Debug\DATA.pdb
+C:\Users\Admin\source\repos\sln_naosip\BUSSINES\bin\Debug\MODEL.pdb
+C:\Users\Admin\source\repos\sln_naosip\BUSSINES\obj\Debug\BUSSINES.csproj.CopyComplete
+C:\Users\Admin\source\repos\sln_naosip\BUSSINES\obj\Debug\BUSSINES.dll
+C:\Users\Admin\source\repos\sln_naosip\BUSSINES\obj\Debug\BUSSINES.pdb
